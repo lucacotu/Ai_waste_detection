@@ -5,7 +5,7 @@ Automatic detection of 5 waste classes (glass,plastic,paper,metal and cardboard)
 
 ## Installation and Setup
 Instructions on setting up the project environment:
-1. Clone the repository: `git clone https://gitlab.com/lucacotu/ai_waste-detection`
+1. Clone the repository: `git clone https://github.com/lucacotu/Ai_waste-detection`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Data
